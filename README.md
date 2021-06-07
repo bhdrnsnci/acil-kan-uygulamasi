@@ -1,17 +1,11 @@
- 
-
-FIRAT ÜNİVERSİTESİ
+#FIRAT ÜNİVERSİTESİ
 Teknoloji Fakültesi
 Yazılım Mühendisliği
-
- 
 
 Bitirme Projesi
 Acil Kan Uygulaması
 
 16542001 – Bahadır Nişancı
-
-
 
 2021
 1.	Giriş
@@ -30,7 +24,6 @@ Acil kan uygulaması, hasta yakınları veya sağlık çalışanlarının hızl�
 Uygulama sayesinde ilanın yanlış insanlara iletilmesi engellenmekte ve doğru zamanda doğru kan bağışçısının bulunması amaçlanmaktadır. 
 
 2.2.	Zaman İş Planı
- 
 
 2.3.	Önerilen Sistemin Teknik Tanımları
 Kullanılan Teknolojiler 
@@ -56,35 +49,23 @@ Uygulamanın testleri yapıldıktan sonra uygulama mağazalarında yayınlanacak
 Bu anket farklı bölgelerde yaşayan ve farklı yaş gruplarında olan insanlarla yapılmıştır. 
 3.1.1.	Daha önce kan bağışı yaptınız mı?
 
-  
-
 Anket sonucunda katılımcıların %57,9’u önceden kan bağışı yapmıştır. 
 
 3.1.2.	Kan bağışına engel olacak bir sağlık sorununuz var mı?
 
-  
-
 Kan bağışı yapmamış olan katılımcıların ise %56,3’lük kesiminin kan bağışına engel olan sağlık sorunları olduğu görülmüştür. 
 3.1.3.	Kan bağışını nerede yaptınız?
 
-
-
-
-
 Kan bağışı yapan katılımcıların toplamda sadece  %27,2’lik kesimi acil hastaya kan bağışı yapmıştır. 
 3.1.4.	Acil kan ihtiyacı ile ilgili hiç ilan gördünüz mü?
-
-  
 
 Kan bağışı için çeşitli ortamlarda yapılan ilanlarla katılımcıların %84,2’lik büyük bir kesiminin karşılaştığı görülmüştür. Bu sonuçla ilanların kan bağışında önemli bir yere sahip olduğunu söylemek mümkündür. 
 
 3.1.5.	Acil kan ihtiyacı ilanı ile nerelerde karşılaştınız?
 
- 
 İlanlar ile karşılaşan katılımcıların büyük bir kısmının ilanlara sosyal medyadan ulaştıkları görülmektedir. 
 
 3.1.6.	İlanda gördüğünüz acil kan ihtiyacı olan bir hastaya kan bağışı yaptınız mı?
-
   
 Çoğunluğu sosyal medyada olmak üzere birçok ortamda kan ihtiyacı ilanları paylaşılmakta ve ihmal edilemeyecek sayıda insanlara ulaşmaktadır. Ancak bu ilanları gören katılımcıların sadece %18,8’lik çok küçük bir kesimi bu ilanlar sonucunda ihtiyaç duyulan kanı bağışlamışlardır. 
 
@@ -108,31 +89,14 @@ Gelecekte uygulamanın mevcut sağlık sistemleri ile ilişkilendirilmesi durumu
 3.4.	Sistem Kullanıcıları
 3.4.1.	İlan veren (Sağlık çalışanları veya hasta yakınları)
 
-
- 
-
-
-
 3.4.2.	Kan bağışçısı
-
-
-                         
-
-
 
 4.	Arayüzler
 
- 
 Arayüz 1 – İlan verme ekranı.
-
- 
 Arayüz 2 – Profil ekranı.
- 
 Arayüz 3 – Bildirim ekranı
-
- 
 Arayüz 4 – Açılır Menü
- 
 Arayüz 5 – Ayarlar ekranı
 
 5.	Sistemin İşleyişi
@@ -154,16 +118,3 @@ Sistemin mevcut durumunda bulunan eksiklikler belirlenmiş ve planlama yapılmı
 •	İlanın kademeli olarak yayılması,
 •	İlaç kullanımı ve hastalıkların eklenmesi ve takip edilmesi,
 •	Bildirimlerin geliştirilmesi (daha ısrarcı bir bildirim),
-
-7.	Kaynaklar
-Faydalanılan bağlantılar:
-https://vb10.dev/
-https://material.io/develop/flutter
-
-Faydalanılan eğitimler:
-https://www.btkakademi.gov.tr/portal/course/google-flutter-ile-mobil-uygulama-kursu-10150#!/about
-
-Proje kodları:
-https://github.com/bhdrnsnci/acil-kan-uygulamasi
-
-
